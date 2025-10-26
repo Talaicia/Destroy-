@@ -1,10 +1,7 @@
 
 /* 
-Programming Assignment 3: Destory Connectivity 
-Written By: Talaicia Isaacs
-Professor Guha
-COP 3503C
-Feb 22, 2022
+ Destory Connectivity 
+
 */
 
 import java.io.File;
@@ -157,6 +154,7 @@ class disjointset {
 
 		return true;
 	}
+
 
 
 }
